@@ -9,4 +9,5 @@ alias gpom="git pull origin master"
 alias grm="git rebase master"
 alias gcaa="git commit -a --amend"
 alias b="git branch"
+alias gcm="git checkout master"
 ```
